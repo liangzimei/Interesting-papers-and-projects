@@ -1,5 +1,5 @@
 # Interesting-papers-and-projects
-collections of papers and projects
+
 
 1.PersonRank: Detecting Important People in Images
 
